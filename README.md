@@ -142,6 +142,7 @@ python audio2md.py meeting_recording.mp3 meeting_recording_transcript.md
 ```
 
 **Folder Pair Mode:**
+
 Process all supported audio/video files in an input folder and output Markdown files to a specified output folder.
 
 ```shell
